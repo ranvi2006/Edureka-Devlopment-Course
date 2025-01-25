@@ -1,0 +1,25 @@
+.navbar{
+border: 2px solid black;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+    display: inline;
+    /* background-color: gray; */
+}
+li{
+    border: 1px black solid;
+}
+
+.border{
+    
+    border: 2px solid black;
+
+}

@@ -1,0 +1,17 @@
+.btn
+{
+    
+    background-color: rgba(255, 0, 0, 0.57);
+    height: 40vh;
+    width: 60vw;
+    border: 20px solid black;
+    border-radius: 3rem;
+}
+.btn:hover{
+    background-color: red;
+    transform: scale(1.01);
+}
+.btn:active{
+    background-color:white;
+    /* transform: scale(1.01); */
+}
